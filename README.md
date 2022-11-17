@@ -22,5 +22,6 @@
    
    ## Summary
    One drawback of this page is that the user has to manually input the search data. This means that the search data has to be spcifically known by the user.
-   In order to make the webpage more userfriendly and dynanic, we can replace the textboxes with a drop-down menu. This will assist provide users with more flexibility.
-   Also, a clear button can be added to the page for more readability.
+
+   In order to make the webpage more userfriendly and dynanic, we can replace the textboxes with a drop-down menu. This will assist provide users with  better flexibility.
+   Also, a clear button can be added to the page for clarity.
