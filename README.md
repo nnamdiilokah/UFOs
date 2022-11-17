@@ -6,21 +6,18 @@
 
   To perform this analysis, the following steps will be carried out:
 
-  + We will start by building a table to hold and neatly display the data we want to work with. 
-  + We will add filters which lets users refine their search according to city, date, state, country, and shape.
-  + Create a DataFrame from the list of temperatures.
-  + Generate the summary statistics for June and December temperatures.
+  + Build a table to hold and neatly display the data we want to work with. 
+  + Add filters which lets users refine their search according to city, date, state, country, and shape.
+  + Style the webpage using CSS.
 
   ## Results
-   Our analysis provided three key differences in weather between June and December
+   The image below shows the unfiltered webpage
+   ![unfiltered](https://github.com/nnamdiilokah/UFOs/blob/main/static/images/unfiltered.png)
 
-   + Summary Statistics for June: Summary Statistics for June temperatures is shown in the image below:
-   ![june_summary](https://github.com/nnamdiilokah/surfs_up/blob/main/june%20summary%20statistics.png)
-
-   + Summary Statistics for December: Summary Statistics for December is shown in the image below:
-   ![December_Summary](https://github.com/nnamdiilokah/surfs_up/blob/main/december%20summary%20statistics.png)
+   In order to perform a search, the user enters the search criteria in any of textboxes on the left hand side of the page, below the "Filter Search" label  and hit the enter button. 
+   For instance in the image below, the page has been filtered accordng to the city "benton"
+   ![filtered](https://github.com/nnamdiilokah/UFOs/blob/main/static/images/filtered.png)
 
    
-  
    ## Summary
    
