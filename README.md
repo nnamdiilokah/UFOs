@@ -14,10 +14,13 @@
    The image below shows the unfiltered webpage
    ![unfiltered](https://github.com/nnamdiilokah/UFOs/blob/main/static/images/unfiltered.png)
 
-   In order to perform a search, the user enters the search criteria in any of textboxes on the left hand side of the page, below the "Filter Search" label  and hit the enter button. 
+   In order to perform a search, the user will enter the search criteria in any of textboxes on the left hand side of the page, below the "Filter Search" label  and hit the enter button. 
+
    For instance in the image below, the page has been filtered accordng to the city "benton"
    ![filtered](https://github.com/nnamdiilokah/UFOs/blob/main/static/images/filtered.png)
 
    
    ## Summary
-   
+   One drawback of this page is that the user has to manually input the search data. This means that the search data has to be spcifically known by the user.
+   In order to make the webpage more userfriendly and dynanic, we can replace the textboxes with a drop-down menu. This will assist provide users with more flexibility.
+   Also, a clear button can be added to the page for more readability.
